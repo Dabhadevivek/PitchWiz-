@@ -4,3 +4,4 @@ pandas
 langchain
 unstructured
 Pillow
+langchain-community
