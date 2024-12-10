@@ -1,4 +1,6 @@
-from langchain.chat_models import ChatOpenAI
+#from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
+
 from typing import List
 from langchain.schema import (
     AIMessage,
